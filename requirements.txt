@@ -1,0 +1,16 @@
+regex
+nltk
+scipy
+six
+tqdm
+numpy
+torch
+pytorch_pretrained_bert==0.6.0
+seqeval
+matplotlib
+pandas
+apex
+fairseq
+PyYAML
+scikit_learn
+tensorboardX
